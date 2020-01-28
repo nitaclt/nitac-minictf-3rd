@@ -1,0 +1,8 @@
+category: "Misc"
+title: "spam"
+text: "好きにして、好きにして、煮るなり焼くなり好きにして"
+file: "./spam.txt"
+point: 50
+style: jeopardy
+flag:
+  - "NITAC{it's_like_a_spam}"

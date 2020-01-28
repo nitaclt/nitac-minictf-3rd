@@ -1,0 +1,9 @@
+category: "Network"
+title: "Teacher's Server"
+text: "先生たちの共有サーバのパケットログが流出した。base32で符号化されたFLAGを探し出せ。"
+file:
+  - "./Network1.pcapng"
+point: 100
+style: jeopardy
+flag:
+  - "NITAC{ISAO_IS_MATHEMATICIAN}"

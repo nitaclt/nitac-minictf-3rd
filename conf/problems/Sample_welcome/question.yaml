@@ -1,0 +1,7 @@
+category: "Sample"
+title: "Welcome"
+text: "NITAC miniCTFへようこそ！以下の欄に `NITAC{sup3r_dup3r_sc0re_serv3r}` と入力して、FLAGが提出できることを確認してください。\nDiscordサーバへの参加もお忘れなく！: [https://discord.gg/npD6Q9k](https://discord.gg/npD6Q9k)"
+point: 1
+style: jeopardy
+flag:
+  - "NITAC{sup3r_dup3r_sc0re_serv3r}"

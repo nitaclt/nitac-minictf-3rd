@@ -1,0 +1,65 @@
+ExifTool Version Number         : 11.70
+File Name                       : 2018062803032848912_OriginalSize.jpg
+Directory                       : .
+File Size                       : 6.7 MB
+File Modification Date/Time     : 2018:06:28 12:03:42+09:00
+File Access Date/Time           : 2020:01:25 01:05:18+09:00
+File Inode Change Date/Time     : 2020:01:25 01:05:18+09:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Camera Model Name               : ASUS_Z01RD
+Orientation                     : Horizontal (normal)
+Modify Date                     : 2018:06:27 16:43:39.259
+Compression                     : JPEG (old-style)
+Y Cb Cr Positioning             : Centered
+F Number                        : 1.8
+Maker Note Unknown Text         : <SmartSceneTag>OTHERS:1,PLANT:0</SmartSceneTag>
+Exposure Time                   : 1/1368
+Sub Sec Time Digitized          : 259
+Sub Sec Time Original           : 259
+Sub Sec Time                    : 259
+Focal Length                    : 3.9 mm
+Flash                           : Off, Did not fire
+Light Source                    : Unknown
+ISO                             : 25
+Metering Mode                   : Center-weighted average
+Create Date                     : 2018:06:27 16:43:39
+Exposure Compensation           : 0
+White Balance                   : Auto
+Aperture Value                  : 1.8
+Exposure Mode                   : Auto
+Exposure Program                : Not Defined
+Shutter Speed Value             : 1/1366
+Components Configuration        : Y, Cb, Cr, -
+Color Space                     : sRGB
+Resolution Unit                 : inches
+GPS Latitude Ref                : North
+GPS Longitude Ref               : East
+GPS Altitude                    : 21 m
+GPS Time Stamp                  : 08:43:38
+GPS Date Stamp                  : 2018:06:27
+Make                            : ASUS
+JFIF Version                    : 1.01
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 4032
+Image Height                    : 3024
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Aperture                        : 1.8
+Image Size                      : 4032x3024
+Megapixels                      : 12.2
+Shutter Speed                   : 1/1368
+Create Date                     : 2018:06:27 16:43:39.259
+Modify Date                     : 2018:06:27 16:43:39.259.259
+GPS Date/Time                   : 2018:06:27 08:43:38Z
+GPS Latitude                    : 25 deg 2' 43.97" N
+GPS Longitude                   : 121 deg 31' 44.72" E
+Focal Length                    : 3.9 mm
+GPS Position                    : 25 deg 2' 43.97" N, 121 deg 31' 44.72" E
+Light Value                     : 14.1

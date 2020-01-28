@@ -1,0 +1,7 @@
+category: "Crypto"
+title: "modulo"
+file: "./modulo.tar.gz"
+point: 200
+text: |
+  `nc modulo.ctf.jyoken.net 80`
+flag: "NITAC{CRT_4lw4ys_h3lps_m3}"

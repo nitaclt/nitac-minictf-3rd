@@ -1,0 +1,7 @@
+category: "Web"
+title: "Admin Portal 2"
+text: |
+  2つ目のフラグは `/flag2.txt` に書かれています。  
+  **※この問題は"Admin Portal 1"の続きです**
+point: 100
+flag: "NITAC{n0w_u_kn0w_h0w_LFI_w0rks}"

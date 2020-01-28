@@ -1,0 +1,8 @@
+category: "Binary"
+title: "ezstack"
+file: "./ezstack.tar.gz"
+point: 300
+text: |
+  スタック上でスタックを実装してみました。  
+  `nc ezstack.ctf.jyoken.net 80`
+flag: "NITAC{s4v3d_rbp_s4v3d_u}"

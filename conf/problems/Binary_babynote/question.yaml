@@ -1,0 +1,8 @@
+category: "Binary"
+title: "babynote"
+file: "./babynote.tar.gz"
+point: 250
+text: |
+  babyが作ったnoteです。  
+  `nc babynote.ctf.jyoken.net 80`
+flag: "NITAC{gr4tz_u_l0v3_th3_g1ft?}"

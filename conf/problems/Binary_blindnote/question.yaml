@@ -1,0 +1,8 @@
+category: "Binary"
+title: "blindnote"
+file: "./blindnote.tar.gz"
+point: 400
+text: |
+  babynote、メガネ外すと何も見えないのでshow機能なくても変わらんか。  
+  `nc blindnote.ctf.jyoken.net 80`
+flag: "NITAC{g0_by_f33l1ng_n0_m4tt3r_h0w_bl1nd_u_r}"

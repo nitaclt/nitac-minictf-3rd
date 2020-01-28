@@ -1,0 +1,9 @@
+category: "Binary"
+title: "wrong copy"
+text: "「重要なものはコピーしてバックアップしないとね！\n
+`objcopy --remove-section=.data --remove-section=.bss ./program`」"
+file: "./program"
+point: 100
+style: jeopardy
+flag:
+  - "NITAC{c0py_15_d1ff1cul7}"

@@ -1,0 +1,8 @@
+category: "Binary"
+title: "michael"
+text: "マイケル「問題文は特にない、それよりレポートの提出で急いでるんだ！じゃあな！」ﾌﾞﾛﾛﾛﾛ"
+file: "./michael"
+point: 200
+style: jeopardy
+flag:
+  - "NITAC{3_5_1729}"

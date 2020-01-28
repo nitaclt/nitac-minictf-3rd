@@ -1,0 +1,8 @@
+category: "Crypto"
+title: "base64"
+text: "これ、、読めますよね。。。"
+file: "./encoded.txt"
+point: 100
+style: jeopardy
+flag:
+  - "NITAC{DO_YOU_KNOW_BASE64?}"

@@ -1,0 +1,8 @@
+category: "Crypto"
+title: "Circular RSA"
+text: "円周上でRSAを計算してみました。"
+file: "circular.tar.gz"
+point: 300
+style: jeopardy
+flag:
+  - "NITAC{r3str1ct10n_r3v34ls_1nf0rm4t10n}"

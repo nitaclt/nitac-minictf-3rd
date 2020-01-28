@@ -1,0 +1,9 @@
+category: "Network"
+title: "JWT_auth"
+text: "以下のpcapファイルを用いてFLAGを探し出せ。"
+file:
+  - "./Network2.pcapng"
+point: 100
+style: jeopardy
+flag:
+  - "NITAC{usin9_0n1y_jwt_is_uns3cur3}"

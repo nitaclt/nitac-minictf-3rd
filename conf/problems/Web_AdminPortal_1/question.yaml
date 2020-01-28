@@ -1,0 +1,10 @@
+category: "Web"
+title: "Admin Portal 1"
+file: "./adminportal.tar.gz"
+docker: "."
+point: 100
+port: 8001
+server_url: "http://portal.ctf.jyoken.net/"
+text: |
+  [工事中のサイト](http://portal.ctf.jyoken.net/)なので新規登録できません......
+flag: "NITAC{00f_r3g1str4t10n_st1ll_w0rks}"

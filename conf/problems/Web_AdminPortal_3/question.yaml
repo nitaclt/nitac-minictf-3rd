@@ -1,0 +1,13 @@
+category: "Web"
+title: "Admin Portal 3"
+text: |
+  3つ目のフラグはルートディレクトリから探して下さい。  
+  **※この問題は"Admin Portal 2"の続きです**
+point: 300
+hints: [
+  {
+    open_at: "2019-01-26T00:00:00+09:00", 
+    msg: "FROM php:7.3-apache"
+  }
+]
+flag: "NITAC{n0w_u_kn0w_h0w_2_c4us3_RCE_us1ng_LFI}"

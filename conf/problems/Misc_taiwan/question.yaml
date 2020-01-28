@@ -1,0 +1,8 @@
+category: "Misc"
+title: "taiwan"
+text: "「疲れからか、不幸にも黒塗りの画像を出題してしまう・・・」\n黒塗りに隠された文字列を英数字4字、NITAC{????}の形式でお答えください。"
+file: "./taiwan.jpg"
+point: 200
+style: jeopardy
+flag:
+  - "NITAC{ATP1}"

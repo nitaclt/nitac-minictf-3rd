@@ -1,0 +1,10 @@
+category: "Binary"
+title: "shellcode"
+text: "バイト列を入力すると実行してくれます。\n
+このプログラムが動作しているディレクトリにFLAGの書かれたファイルが置いてあるので、それを読んでください。\n
+`nc shellcode.ctf.jyoken.net 80`"
+file: "./shellcode"
+point: 100
+style: jeopardy
+flag:
+  - "NITAC{I_g4ve_up_cr0ss_comp1ling}"

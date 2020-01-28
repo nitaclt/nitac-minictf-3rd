@@ -1,0 +1,10 @@
+category: "Web"
+title: "Akhan Academy"
+text: "数学がわからない人のためのSNSを作りました。最近僕はずっとここに張り付いています。"
+point: 200
+docker: "./docker/"
+port: 8002
+server_url: "http://akhan.ctf.jyoken.net"
+style: jeopardy
+flag:
+ - "NITAC{wh4t_a_beaut1ful_f0rmu1a}"

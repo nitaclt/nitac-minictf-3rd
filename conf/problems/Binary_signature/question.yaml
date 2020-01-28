@@ -1,0 +1,8 @@
+category: "Binary"
+title: "signature"
+text: "開けんけど..."
+file: "./signature"
+point: 100
+style: jeopardy
+flag:
+  - "NITAC{dr4win9}"

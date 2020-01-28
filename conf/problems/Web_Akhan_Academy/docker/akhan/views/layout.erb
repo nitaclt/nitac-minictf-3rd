@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css" integrity="sha384-zB1R0rpPzHqg7Kpt0Aljp8JPLqbXI3bhnPWROx27a9N0Ll6ZP/+DiW/UqRcLbRjq" crossorigin="anonymous">
+    <script src="./katex/katex.js"></script>
+    <title>Akhan Academy</title>
+    <meta charset="UTF-8">
+  </head>
+  <body>
+    <a href="/"><h1>Akhan Academy</h1></a>
+    <%= yield %>
+    <script>
+      const articles = document.querySelectorAll(".content")
+      for (let el of articles) {
+        katex.render(el.innerHTML, el, {
+          throwOnError: false,
+          trust: (context) => true
+        })
+      }
+    </script>
+  </body>
+</html>

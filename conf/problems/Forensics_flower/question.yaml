@@ -1,0 +1,11 @@
+category: "Forensics"
+title: "flower"
+text: "学校にある絵にこんな秘密が隠されていたなんてーーー"
+file:
+  - "./encrypt.py"
+  - "./flower.png"
+  - "./enc_flower.png"
+point: 200
+style: jeopardy
+flag:
+  - "NITAC{LSB_full_search}"

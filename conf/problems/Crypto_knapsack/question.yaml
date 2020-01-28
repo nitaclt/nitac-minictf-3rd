@@ -1,0 +1,10 @@
+category: "Crypto"
+title: "knapsack"
+text: "暗号は数だよ兄貴！"
+file:
+  - "./ciphertext.txt"
+  - "./publickey.txt"
+point: 200
+style: jeopardy
+flag:
+  - "NITAC{Ra1ph_Merk1e&Martin_Edward_He11man}"

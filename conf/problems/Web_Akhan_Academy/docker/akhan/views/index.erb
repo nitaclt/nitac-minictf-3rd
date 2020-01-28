@@ -1,0 +1,46 @@
+プロフィール画像: <img src="/images/<%= session[:pic] %>">
+
+<form action="/pic" method="POST" enctype="multipart/form-data">
+  <label>プロフィール画像 <input type="file" name="file" required></label>
+  <input type="submit" value="設定する">
+</form>
+
+<hr>
+
+<form action="/post" method="POST">
+  <label>本文(LaTeXが使えるよ！)<br>
+  <textarea id="tx" name="content" required></textarea></label><br>
+  <label><input type="checkbox" name="is_public" checked> 公開する</label><br>
+  <button onclick="addStamp(1);"><img src="stamp1.png" width="64"></button>
+  <button onclick="addStamp(2);"><img src="stamp2.png" width="64"></button>
+  <button onclick="addStamp(3);"><img src="stamp3.png" width="64"></button>
+  <button onclick="addStamp(4);"><img src="stamp4.png" width="64"></button><br>
+  <input type="submit" value="投稿する">
+</form>
+<br>
+
+<hr>
+
+<div id="wrapper">
+  <% @posts.each do |po| %>
+    <article>
+      <time><%= po.created_at %></time> 
+      <% unless po.is_public %>
+        [非公開]
+      <% end %> :
+      <span class="content"> 
+        <% if po.is_public || po.owner == @id %>
+          <%= ERB::Util.html_escape(po.content) %>
+        <% else %>
+          *****
+        <% end %>
+      </span>
+    </article>
+  <% end %>
+</div>
+
+<script>
+  const addStamp = (num) => {
+    document.getElementById("tx").value += `\\includegraphics[]{/stamp${num}.png}`
+  }
+</script>
